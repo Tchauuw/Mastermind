@@ -1,5 +1,3 @@
-Voici un README.md pour votre projet MasterMind :
-
 # MasterMind
 
 MasterMind est un jeu de logique classique où le joueur doit deviner la combinaison de couleurs générée par l'ordinateur. Ce jeu a été développé en utilisant JavaScript, HTML, et CSS.
